@@ -11,7 +11,7 @@ body {
 
 .container {
     display: grid;
-    grid-template-columns: 1fr 400px 1fr;
+    grid-template-columns: 1fr 800px 1fr;
     margin-top: 100px;
     margin-bottom: 100px;
 }
