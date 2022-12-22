@@ -52,14 +52,14 @@ body {
 
 .name {
     font-family: Arial;
-    font-size: 150%;
+    font-size: 225%;
     font-weight: bold;
     margin: auto;
 }
 
 .desc {
     font-family: Arial;
-    font-size: 125%;
+    font-size: 200%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -86,7 +86,7 @@ body {
     margin: auto;
     font-family: Arial;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 27px;
 }
 
 .btn-icon {
