@@ -52,14 +52,14 @@ body {
 
 .name {
     font-family: Arial;
-    font-size: 125%;
+    font-size: 150%;
     font-weight: bold;
     margin: auto;
 }
 
 .desc {
     font-family: Arial;
-    font-size: 100%;
+    font-size: 125%;
     color: grey;
     margin: auto;
     margin-top: 5px;
@@ -67,12 +67,12 @@ body {
 
 .btn {
     display: grid;
-    grid-template-columns: 50px 1fr;
-    height: 50px;
+    grid-template-columns: 100px 1fr;
+    height: 100px;
     width: 100%;
     margin: auto;
-    margin-top: 25px;
-    border-radius: 25px;
+    margin-top: 50px;
+    border-radius: 50px;
     opacity: 0.9;
     transition: opacity 0.15s;
     border-style: none;
@@ -86,7 +86,7 @@ body {
     margin: auto;
     font-family: Arial;
     font-weight: bold;
-    font-size: 17px;
+    font-size: 25px;
 }
 
 .btn-icon {
@@ -94,7 +94,7 @@ body {
     margin: auto;
     margin-left: 25px;
     padding: auto;
-    border-radius: 15px;
+    border-radius: 20px;
     border: 1px solid rgb(0, 0, 0);
 }
 
